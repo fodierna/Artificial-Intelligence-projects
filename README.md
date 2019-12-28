@@ -13,7 +13,7 @@ For the informed search algorithms two heuristics have been implemented:
 - Manhattan distance
 - Diagonal distance
 
-A total of 113 tests were performed. We used mazes of different size with different number of obstacles. The best search algorithm is A* with Manhattan distance heuristic, which is able to solve 1000 x 1000 mazes with the 30% of obstacles in only 180 seconds using only 10MB of memory.
+A total of 113 tests were performed. We used mazes of different sizes with different number of obstacles. The best search algorithm is A* with Manhattan distance heuristic, which is able to solve 1000 x 1000 mazes with the 30% of obstacles in only 180 seconds using only 10MB of memory.
 
 ## Project 2: Class Schedule [ASP-programming]
 The goal of the project is to formulate a weekly class schedule given teachers, subjects, classroom and hours. We formulated different constraints in order to achieve the goal.  
