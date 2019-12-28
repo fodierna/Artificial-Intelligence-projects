@@ -21,7 +21,6 @@ The goal of the project is to formulate a weekly class schedule given teachers, 
 ## Project 3: Expert systems [CLIPS-project]
 The goal is to realize an expert system to be used in a travel agency to propose a vacation package based on the user preferences. 
 The user can choose the number of nights and people, the budget, zero or more locations, zero or more kind of tourism, the minimum number of stars of the hotels. The system, based on the preferences of the user and the budget returns the top-5 vacation packages ranked using a confidence measure. The expert system is implemented in CLIPS.
-[!picture](https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.clipsrules.net%2F&psig=AOvVaw0SUBkb4eD5Tnk2N_tO1lPs&ust=1577654499945000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCODR9o-j2eYCFQAAAAAdAAAAABAD)
 
 ## Project 4: Kalman Filter [Kalman-Filter]
 A Python implementation of the Kalman Filter. The simulated process if the uniformly accelerated motion in 2D. Different expirements were carried out, in different condition of noise both on process and measurement.
